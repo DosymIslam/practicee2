@@ -1,4 +1,4 @@
-a=1
-while a<=10:
-    print(a)
-    a+=1
+s=1
+while s<=10:
+    print(s)
+    s+=1
