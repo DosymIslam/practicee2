@@ -1,6 +1,6 @@
-i = 1
-while i<=10:
-    if i==5:
+s = 1
+while s<=10:
+    if s==5:
         break
-    print(i)
-    i += 1
+    print(s)
+    s += 1
